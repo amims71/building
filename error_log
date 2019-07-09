@@ -1,0 +1,306 @@
+[11-Jun-2019 11:21:12 Europe/London] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 2
+[11-Jun-2019 11:21:12 Europe/London] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 2
+[11-Jun-2019 11:21:12 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 4
+[11-Jun-2019 11:21:12 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:22:36 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/login-mobile.php:23) in /home/digicondevhub/public_html/building/login-mobile.php on line 24
+[11-Jun-2019 11:23:44 Europe/London] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 2
+[11-Jun-2019 11:23:44 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/digicondevhub/public_html/building/header.php on line 6
+[11-Jun-2019 11:23:44 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:23:48 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/digicondevhub/public_html/building/header.php on line 6
+[11-Jun-2019 11:23:48 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/digicondevhub/public_html/building/view_user.php on line 146
+[11-Jun-2019 11:23:48 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/view_user.php on line 147
+[11-Jun-2019 11:23:48 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/digicondevhub/public_html/building/view_user.php on line 591
+[11-Jun-2019 11:23:48 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/view_user.php on line 592
+[11-Jun-2019 11:23:48 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:24:47 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/digicondevhub/public_html/building/header.php on line 6
+[11-Jun-2019 11:24:47 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/digicondevhub/public_html/building/view_ticket.php on line 15
+[11-Jun-2019 11:24:47 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/view_ticket.php on line 17
+[11-Jun-2019 11:24:47 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/digicondevhub/public_html/building/view_ticket.php on line 81
+[11-Jun-2019 11:24:47 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/view_ticket.php on line 83
+[11-Jun-2019 11:24:47 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/digicondevhub/public_html/building/view_ticket.php on line 166
+[11-Jun-2019 11:24:47 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/view_ticket.php on line 167
+[11-Jun-2019 11:24:47 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:26:29 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:26:43 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:26:48 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:31:46 Europe/London] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 2
+[11-Jun-2019 11:31:46 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 4
+[11-Jun-2019 11:31:46 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:32:39 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 102
+[11-Jun-2019 11:32:39 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 103
+[11-Jun-2019 11:32:39 Europe/London] PHP Notice:  Undefined variable: con in /home/digicondevhub/public_html/building/view_user.php on line 146
+[11-Jun-2019 11:32:39 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/digicondevhub/public_html/building/view_user.php on line 146
+[11-Jun-2019 11:32:39 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/view_user.php on line 147
+[11-Jun-2019 11:32:39 Europe/London] PHP Notice:  Undefined variable: con in /home/digicondevhub/public_html/building/view_user.php on line 591
+[11-Jun-2019 11:32:39 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/digicondevhub/public_html/building/view_user.php on line 591
+[11-Jun-2019 11:32:39 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/view_user.php on line 592
+[11-Jun-2019 11:32:39 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:35:01 Europe/London] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 2
+[11-Jun-2019 11:35:01 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 4
+[11-Jun-2019 11:35:01 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/index.php on line 5
+[11-Jun-2019 11:35:01 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:35:33 Europe/London] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 2
+[11-Jun-2019 11:35:33 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 4
+[11-Jun-2019 11:35:33 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/index.php on line 5
+[11-Jun-2019 11:35:33 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:35:59 Europe/London] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 2
+[11-Jun-2019 11:35:59 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 4
+[11-Jun-2019 11:35:59 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/index.php on line 5
+[11-Jun-2019 11:35:59 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:36:01 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 102
+[11-Jun-2019 11:36:01 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 103
+[11-Jun-2019 11:36:01 Europe/London] PHP Notice:  Undefined variable: con in /home/digicondevhub/public_html/building/view_user.php on line 146
+[11-Jun-2019 11:36:01 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/digicondevhub/public_html/building/view_user.php on line 146
+[11-Jun-2019 11:36:01 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/view_user.php on line 147
+[11-Jun-2019 11:36:01 Europe/London] PHP Notice:  Undefined variable: con in /home/digicondevhub/public_html/building/view_user.php on line 591
+[11-Jun-2019 11:36:01 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/digicondevhub/public_html/building/view_user.php on line 591
+[11-Jun-2019 11:36:01 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/view_user.php on line 592
+[11-Jun-2019 11:36:01 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:36:06 Europe/London] PHP Notice:  Undefined variable: con in /home/digicondevhub/public_html/building/view_ticket.php on line 15
+[11-Jun-2019 11:36:06 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/digicondevhub/public_html/building/view_ticket.php on line 15
+[11-Jun-2019 11:36:06 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/view_ticket.php on line 17
+[11-Jun-2019 11:36:06 Europe/London] PHP Notice:  Undefined variable: con in /home/digicondevhub/public_html/building/view_ticket.php on line 81
+[11-Jun-2019 11:36:06 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/digicondevhub/public_html/building/view_ticket.php on line 81
+[11-Jun-2019 11:36:06 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/view_ticket.php on line 83
+[11-Jun-2019 11:36:06 Europe/London] PHP Notice:  Undefined variable: con in /home/digicondevhub/public_html/building/view_ticket.php on line 166
+[11-Jun-2019 11:36:06 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/digicondevhub/public_html/building/view_ticket.php on line 166
+[11-Jun-2019 11:36:06 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/view_ticket.php on line 167
+[11-Jun-2019 11:36:06 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:36:09 Europe/London] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 2
+[11-Jun-2019 11:36:09 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 4
+[11-Jun-2019 11:36:09 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/index.php on line 5
+[11-Jun-2019 11:36:09 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:36:38 Europe/London] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 2
+[11-Jun-2019 11:36:38 Europe/London] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 2
+[11-Jun-2019 11:36:38 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 4
+[11-Jun-2019 11:36:38 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/index.php on line 5
+[11-Jun-2019 11:36:38 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:38:01 Europe/London] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 2
+[11-Jun-2019 11:38:01 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 4
+[11-Jun-2019 11:38:01 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/index.php on line 5
+[11-Jun-2019 11:38:01 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:39:07 Europe/London] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 2
+[11-Jun-2019 11:39:07 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 4
+[11-Jun-2019 11:39:07 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/index.php on line 5
+[11-Jun-2019 11:39:07 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:42:47 Europe/London] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 2
+[11-Jun-2019 11:42:47 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:42:59 Europe/London] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/digicondevhub/public_html/building/index.php:1) in /home/digicondevhub/public_html/building/header.php on line 2
+[11-Jun-2019 11:42:59 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 102
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 103
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 162
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 163
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 276
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 277
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 162
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 163
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 276
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 277
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 162
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 163
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 276
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 277
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 162
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 163
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 276
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 277
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 162
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 163
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 276
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 277
+[11-Jun-2019 11:43:39 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:43:50 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 102
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 103
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 162
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 163
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 276
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 277
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 162
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 163
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 276
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 277
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 162
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 163
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 276
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 277
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 162
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 163
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 276
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 277
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 162
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 163
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/view_user.php on line 276
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/view_user.php on line 277
+[11-Jun-2019 11:43:53 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:44:08 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 11:44:12 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 12:01:50 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 12:01:52 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[11-Jun-2019 12:01:55 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[12-Jun-2019 07:02:26 Europe/London] PHP Notice:  Undefined index: pc in /home/digicondevhub/public_html/building/assign.php on line 18
+[12-Jun-2019 07:02:26 Europe/London] PHP Notice:  Undefined index: pc in /home/digicondevhub/public_html/building/assign.php on line 30
+[12-Jun-2019 07:06:18 Europe/London] PHP Notice:  Undefined index: pc in /home/digicondevhub/public_html/building/assign.php on line 18
+[12-Jun-2019 07:06:18 Europe/London] PHP Notice:  Undefined index: pc in /home/digicondevhub/public_html/building/assign.php on line 30
+[12-Jun-2019 07:10:08 Europe/London] PHP Notice:  Undefined index: pc in /home/digicondevhub/public_html/building/assign.php on line 18
+[12-Jun-2019 07:10:08 Europe/London] PHP Notice:  Undefined index: pc in /home/digicondevhub/public_html/building/assign.php on line 30
+[12-Jun-2019 07:10:26 Europe/London] PHP Notice:  Undefined index: pc in /home/digicondevhub/public_html/building/assign.php on line 18
+[12-Jun-2019 07:10:26 Europe/London] PHP Notice:  Undefined index: pc in /home/digicondevhub/public_html/building/assign.php on line 30
+[12-Jun-2019 07:12:12 Europe/London] PHP Notice:  Undefined index: pc in /home/digicondevhub/public_html/building/assign.php on line 18
+[12-Jun-2019 07:12:12 Europe/London] PHP Notice:  Undefined index: pc in /home/digicondevhub/public_html/building/assign.php on line 30
+[12-Jun-2019 07:12:48 Europe/London] PHP Notice:  Undefined index: pc in /home/digicondevhub/public_html/building/assign.php on line 18
+[12-Jun-2019 07:12:48 Europe/London] PHP Notice:  Undefined index: pc in /home/digicondevhub/public_html/building/assign.php on line 30
+[12-Jun-2019 07:16:31 Europe/London] PHP Notice:  Undefined index: pc in /home/digicondevhub/public_html/building/assign.php on line 18
+[12-Jun-2019 07:16:31 Europe/London] PHP Notice:  Undefined index: pc in /home/digicondevhub/public_html/building/assign.php on line 30
+[12-Jun-2019 07:25:08 Europe/London] PHP Notice:  Undefined index: pc in /home/digicondevhub/public_html/building/assign.php on line 18
+[12-Jun-2019 07:25:08 Europe/London] PHP Notice:  Undefined index: pc in /home/digicondevhub/public_html/building/assign.php on line 30
+[12-Jun-2019 10:16:06 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[12-Jun-2019 10:16:10 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[12-Jun-2019 10:16:15 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[12-Jun-2019 11:47:45 Europe/London] PHP Notice:  Undefined variable: con in /home/digicondevhub/public_html/building/view_ticket.php on line 15
+[12-Jun-2019 11:47:45 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/digicondevhub/public_html/building/view_ticket.php on line 15
+[12-Jun-2019 11:47:45 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/view_ticket.php on line 17
+[12-Jun-2019 11:47:45 Europe/London] PHP Notice:  Undefined variable: con in /home/digicondevhub/public_html/building/view_ticket.php on line 81
+[12-Jun-2019 11:47:45 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/digicondevhub/public_html/building/view_ticket.php on line 81
+[12-Jun-2019 11:47:45 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/view_ticket.php on line 83
+[12-Jun-2019 11:47:45 Europe/London] PHP Notice:  Undefined variable: con in /home/digicondevhub/public_html/building/view_ticket.php on line 166
+[12-Jun-2019 11:47:45 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/digicondevhub/public_html/building/view_ticket.php on line 166
+[12-Jun-2019 11:47:45 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/view_ticket.php on line 167
+[12-Jun-2019 11:47:45 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[12-Jun-2019 11:47:49 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[12-Jun-2019 11:48:11 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[12-Jun-2019 11:53:58 Europe/London] PHP Warning:  Missing argument 1 for sendMessage(), called in /home/digicondevhub/public_html/building/assign.php on line 36 and defined in /home/digicondevhub/public_html/building/assign.php on line 7
+[12-Jun-2019 11:53:58 Europe/London] PHP Warning:  Missing argument 2 for sendMessage(), called in /home/digicondevhub/public_html/building/assign.php on line 36 and defined in /home/digicondevhub/public_html/building/assign.php on line 7
+[12-Jun-2019 11:53:58 Europe/London] PHP Notice:  Undefined variable: uid in /home/digicondevhub/public_html/building/assign.php on line 11
+[12-Jun-2019 11:53:58 Europe/London] PHP Notice:  Undefined variable: title in /home/digicondevhub/public_html/building/assign.php on line 12
+[12-Jun-2019 11:53:58 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/assign.php:17) in /home/digicondevhub/public_html/building/assign.php on line 73
+[12-Jun-2019 11:55:08 Europe/London] PHP Warning:  Missing argument 1 for sendMessage(), called in /home/digicondevhub/public_html/building/assign.php on line 36 and defined in /home/digicondevhub/public_html/building/assign.php on line 7
+[12-Jun-2019 11:55:08 Europe/London] PHP Warning:  Missing argument 2 for sendMessage(), called in /home/digicondevhub/public_html/building/assign.php on line 36 and defined in /home/digicondevhub/public_html/building/assign.php on line 7
+[12-Jun-2019 11:55:08 Europe/London] PHP Notice:  Undefined variable: uid in /home/digicondevhub/public_html/building/assign.php on line 11
+[12-Jun-2019 11:55:08 Europe/London] PHP Notice:  Undefined variable: title in /home/digicondevhub/public_html/building/assign.php on line 12
+[12-Jun-2019 11:55:08 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/digicondevhub/public_html/building/assign.php:17) in /home/digicondevhub/public_html/building/assign.php on line 73
+[12-Jun-2019 11:55:38 Europe/London] PHP Warning:  Missing argument 1 for sendMessage(), called in /home/digicondevhub/public_html/building/assign.php on line 36 and defined in /home/digicondevhub/public_html/building/assign.php on line 7
+[12-Jun-2019 11:55:38 Europe/London] PHP Warning:  Missing argument 2 for sendMessage(), called in /home/digicondevhub/public_html/building/assign.php on line 36 and defined in /home/digicondevhub/public_html/building/assign.php on line 7
+[12-Jun-2019 11:55:38 Europe/London] PHP Notice:  Undefined variable: uid in /home/digicondevhub/public_html/building/assign.php on line 11
+[12-Jun-2019 11:55:38 Europe/London] PHP Notice:  Undefined variable: title in /home/digicondevhub/public_html/building/assign.php on line 12
+[12-Jun-2019 11:55:39 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:31:19 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:32:27 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:32:30 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:32:33 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:32:35 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:32:39 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:32:43 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:32:44 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:33:23 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:33:27 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:34:47 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:35:45 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:40:48 Europe/London] PHP Fatal error:  Cannot use temporary expression in write context in /home/digicondevhub/public_html/building/view_ticket.php on line 185
+[13-Jun-2019 06:42:03 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:42:42 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:43:01 Europe/London] PHP Warning:  Missing argument 1 for sendMessage(), called in /home/digicondevhub/public_html/building/assign.php on line 36 and defined in /home/digicondevhub/public_html/building/assign.php on line 7
+[13-Jun-2019 06:43:01 Europe/London] PHP Warning:  Missing argument 2 for sendMessage(), called in /home/digicondevhub/public_html/building/assign.php on line 36 and defined in /home/digicondevhub/public_html/building/assign.php on line 7
+[13-Jun-2019 06:43:01 Europe/London] PHP Notice:  Undefined variable: uid in /home/digicondevhub/public_html/building/assign.php on line 11
+[13-Jun-2019 06:43:01 Europe/London] PHP Notice:  Undefined variable: title in /home/digicondevhub/public_html/building/assign.php on line 12
+[13-Jun-2019 06:43:02 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:43:20 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:43:23 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:43:29 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[13-Jun-2019 06:43:32 Europe/London] PHP Notice:  Undefined variable: login in /home/digicondevhub/public_html/building/footer.php on line 51
+[19-Jun-2019 07:35:28 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 27
+[19-Jun-2019 07:35:28 Europe/London] PHP Notice:  Undefined variable: all in /home/digicondevhub/public_html/building/getTicketCount.php on line 31
+[19-Jun-2019 07:35:28 Europe/London] PHP Notice:  Undefined variable: completed in /home/digicondevhub/public_html/building/getTicketCount.php on line 31
+[19-Jun-2019 07:35:57 Europe/London] PHP Notice:  Undefined index: utoken in /home/digicondevhub/public_html/building/getTicketCount.php on line 5
+[19-Jun-2019 07:35:57 Europe/London] PHP Notice:  Undefined index: uid in /home/digicondevhub/public_html/building/getTicketCount.php on line 6
+[19-Jun-2019 07:35:57 Europe/London] PHP Notice:  Undefined index: status in /home/digicondevhub/public_html/building/getTicketCount.php on line 7
+[19-Jun-2019 07:35:57 Europe/London] PHP Notice:  Undefined variable: con in /home/digicondevhub/public_html/building/getTicketCount.php on line 9
+[19-Jun-2019 07:35:57 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/digicondevhub/public_html/building/getTicketCount.php on line 9
+[19-Jun-2019 07:35:57 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/getTicketCount.php on line 10
+[19-Jun-2019 07:35:57 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[19-Jun-2019 07:35:57 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[19-Jun-2019 07:35:57 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/getTicketCount.php on line 26
+[19-Jun-2019 07:35:57 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/getTicketCount.php on line 27
+[19-Jun-2019 07:35:57 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/digicondevhub/public_html/building/getTicketCount.php on line 28
+[19-Jun-2019 07:35:57 Europe/London] PHP Notice:  Undefined variable: all in /home/digicondevhub/public_html/building/getTicketCount.php on line 29
+[19-Jun-2019 07:35:57 Europe/London] PHP Notice:  Undefined variable: completed in /home/digicondevhub/public_html/building/getTicketCount.php on line 29
+[19-Jun-2019 07:37:41 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[19-Jun-2019 07:37:41 Europe/London] PHP Notice:  Undefined variable: all in /home/digicondevhub/public_html/building/getTicketCount.php on line 29
+[19-Jun-2019 07:37:41 Europe/London] PHP Notice:  Undefined variable: completed in /home/digicondevhub/public_html/building/getTicketCount.php on line 29
+[19-Jun-2019 07:38:18 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[19-Jun-2019 07:38:18 Europe/London] PHP Notice:  Undefined variable: all in /home/digicondevhub/public_html/building/getTicketCount.php on line 29
+[19-Jun-2019 07:38:47 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[19-Jun-2019 08:27:23 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[19-Jun-2019 08:27:26 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[19-Jun-2019 08:52:16 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[19-Jun-2019 08:58:12 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[19-Jun-2019 08:58:32 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[19-Jun-2019 08:58:51 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[19-Jun-2019 08:59:59 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[19-Jun-2019 09:03:51 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[19-Jun-2019 09:07:47 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[19-Jun-2019 09:11:24 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[19-Jun-2019 09:18:16 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[19-Jun-2019 09:19:36 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[19-Jun-2019 09:26:54 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[19-Jun-2019 10:44:30 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[20-Jun-2019 08:59:45 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[20-Jun-2019 09:00:36 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[20-Jun-2019 09:02:00 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[20-Jun-2019 09:05:26 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[20-Jun-2019 09:07:14 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[20-Jun-2019 09:16:50 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[20-Jun-2019 10:13:31 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[20-Jun-2019 10:14:29 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[21-Jun-2019 13:03:28 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 07:25:27 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 07:34:10 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 07:34:10 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/digicondevhub/public_html/building/getTicketCount.php on line 26
+[22-Jun-2019 07:34:10 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/digicondevhub/public_html/building/getTicketCount.php on line 27
+[22-Jun-2019 07:34:10 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/digicondevhub/public_html/building/getTicketCount.php on line 28
+[22-Jun-2019 07:35:59 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 07:35:59 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/digicondevhub/public_html/building/getTicketCount.php on line 26
+[22-Jun-2019 07:35:59 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/digicondevhub/public_html/building/getTicketCount.php on line 27
+[22-Jun-2019 07:35:59 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/digicondevhub/public_html/building/getTicketCount.php on line 28
+[22-Jun-2019 07:38:25 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 07:40:37 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 08:35:54 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 08:39:40 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 08:44:35 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 08:47:49 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 08:57:43 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 10:21:55 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 10:24:30 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 10:38:55 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 10:47:11 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 10:53:30 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 10:54:33 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 10:58:01 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 10:58:05 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 10:58:07 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 10:58:46 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 11:00:19 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 11:01:14 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 11:02:13 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 11:03:05 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[22-Jun-2019 11:04:32 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[24-Jun-2019 16:44:06 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[27-Jun-2019 11:55:55 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[27-Jun-2019 13:38:49 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[28-Jun-2019 15:17:23 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[29-Jun-2019 05:58:51 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[30-Jun-2019 07:15:47 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[01-Jul-2019 07:56:12 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[06-Jul-2019 07:43:14 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[09-Jul-2019 05:37:34 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[09-Jul-2019 05:43:39 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[09-Jul-2019 06:05:20 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[09-Jul-2019 06:07:06 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[09-Jul-2019 06:25:40 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[09-Jul-2019 06:27:48 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[09-Jul-2019 06:57:22 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[09-Jul-2019 07:00:43 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[09-Jul-2019 07:02:28 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[09-Jul-2019 07:03:20 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 25
+[09-Jul-2019 07:09:55 Europe/London] PHP Warning:  Creating default object from empty value in /home/digicondevhub/public_html/building/getTicketCount.php on line 32
